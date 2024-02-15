@@ -3,7 +3,20 @@
 -create React app (npx create-react-app flodername)
 -Configured Tailwind CSS(official site)
 -Header 
+-routing of app
 -Login form
+-Sign Up form
+-Form validation
+-useRef Hook
+-Firebaase setup
+-Deplaying our app to production
+-create signup User Account
+-Implement sigin user API
+-created Redux store with userSlice
+-Implemented Sign out
+-Update profile
+
+
 
 
 #Features (netflix official website)
