@@ -2,6 +2,9 @@
 
 -create React app (npx create-react-app flodername)
 -Configured Tailwind CSS(official site)
+-Header 
+-Login form
+
 
 #Features (netflix official website)
 

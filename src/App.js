@@ -1,5 +1,5 @@
 
-import Body from "./components/Body"
+import Body from "./components/Body.js"
 
 function App() {
   return (
