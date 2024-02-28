@@ -38,6 +38,9 @@
 - GPT search page
 - GPT search Bar
 - Multi-language Feature in our app
+- Integrated API for openAI from official site
+- searched data is working fine ( as tested in console.log() still there console.log())
+- 3rd vid 1:50:00 open AI - chnage the apikey(currently token not working)
 
 
 
