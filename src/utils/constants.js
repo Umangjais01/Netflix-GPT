@@ -26,4 +26,6 @@ export const SUPPORTED_LANGUAGES =
   {identifier:"spanish", name:"Spanish"}
 ];
 
-export const OPENAI_KEY = "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";
+
+//https://platform.openai.com/docs/overview (API Link)
+export const OPENAI_KEY = "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";
