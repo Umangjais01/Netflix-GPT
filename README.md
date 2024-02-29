@@ -1,4 +1,5 @@
 #NETFLIX GPT
+- api openai- https://platform.openai.com/api-keys
 
 -create React app (npx create-react-app flodername)
 -Configured Tailwind CSS(official site)
@@ -13,9 +14,7 @@
 -create signup User Account
 -Implement sigin user API
 -created Redux store with userSlice
--Implemented Sign out
--Update profile
--BugFix: signup user displayName and profile picture update
+-Implemented Sign out3rd vid 1:50:00 open AI - chnage the apikey(currently token not working)ame and profile picture update
 -BugFix: if the user is not logged in Redirect / browse to login page & vice-versa
 - Unsubscribes to the onAuthSubscribed callback
 -Add hardcoded links to the constants file
@@ -31,8 +30,8 @@
 - Tailwind classes to make main container good looking
 -Build Secondary Components
 - Build Movie List
--Build Movie Card
--TMDB Img CDN URL
+- Build Movie Card
+- TMDB Img CDN URL
 - made the browser page goodlooking with Tailwind CSS
 - usePopularMovies + useTrendingMovies + useUpcomingMovies custom hooks
 - GPT search page
@@ -40,7 +39,10 @@
 - Multi-language Feature in our app
 - Integrated API for openAI from official site
 - searched data is working fine ( as tested in console.log() still there console.log())
-- 3rd vid 1:50:00 open AI - chnage the apikey(currently token not working)
+- Gpt search API call
+- Memozation(prevent from calling API again and again)
+- Reused Movie list componrent
+- adding .env file to gitignore
 
 
 

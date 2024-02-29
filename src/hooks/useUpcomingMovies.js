@@ -20,7 +20,7 @@ const useUpcomingMovies = () => {
   };
 
   useEffect(() => {
-    !upcomingMovies && getUpcomingMovies();
+    if(!upcomingMovies) getUpcomingMovies();
   }, []);
 };
 

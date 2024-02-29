@@ -5,17 +5,18 @@ import GptMovieSuggestions from './GptMovieSuggestions';
 
 export const GPTSearch = () => {
   return (
-    <div>
+    <>
       <div className='fixed -z-10'>
-            <img 
+            <img className='object-cover'
               src={BG_URL}
-              alt="logo"
-            />
+              alt="logo"   />
         </div>
+      <div className=''>  
       <GptSearchBar />
       <GptMovieSuggestions />
-      
-    </div>
+      </div>
+      </>
+  
   )
 }
 export default GPTSearch;
